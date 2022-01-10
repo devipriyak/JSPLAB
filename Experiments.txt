@@ -1,0 +1,5 @@
+1.Write a JSP program to handle errors(exception object)
+2.Write a JSP program to maintain the sessions(session Object)
+3.Write a JSP program to use include directive
+3.Write a JSP program to read the data from the html and insert into database
+4.Write a JSP program to read the id from the html and fetch the data from the db
